@@ -1,4 +1,4 @@
-angular.module('modelList', []).directive('modelList', function ($parse) {
+angular.module('angular-model-list', []).directive('modelList', function ($parse) {
     return {
         link: function (scope, elm, attr, ngModelCtrl) {
             scope.$watch(attr.ngModel, function (val) {
