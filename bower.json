@@ -1,0 +1,23 @@
+{
+  "name": "angular-model-list",
+  "main": "angular-model-list.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tushariscoolster/angular-model-list",
+  "authors": [
+    "Tushar Borole <tushariscoolster@gmail.com>"
+  ],
+  "description": "list of model to be changed",
+  "keywords": [
+    "angular-model-list",
+    "modelchanged",
+    "modellst"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
